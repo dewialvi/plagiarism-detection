@@ -1,0 +1,11 @@
+pdfplumber
+nltk
+Sastrawi
+scikit-learn
+pandas
+gensim
+spacy
+numpy
+PyPDF2
+matplotlib
+requests
