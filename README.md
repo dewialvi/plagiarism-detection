@@ -16,6 +16,7 @@ Project ini dibuat sebagai tugas akhir/skripsi untuk menampilkan persentase kemi
 
 ## 📷 Screenshot
 
+<img width="1920" height="1080" alt="Screenshot (2296)" src="https://github.com/user-attachments/assets/102c18ba-942a-4723-aefa-60d15246313f" />
 
 ## 📌 Cara Menjalankan
 1. Clone repo ini
